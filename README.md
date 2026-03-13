@@ -24,7 +24,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Terminal Portfolio](https://rohit-portfolio-three-zeta.vercel.app | Hacker-style personal portfolio | React, CSS |
+| [Terminal Portfolio](https://rohit-portfolio-three-zeta.vercel.app/)  | Hacker-style personal portfolio | React, CSS |
 | More coming soon... | Building MERN projects | MERN Stack |
 
 ---
