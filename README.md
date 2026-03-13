@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit78-arch&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit78-arch&layout=compact&theme=radical)
 
 ---
 
